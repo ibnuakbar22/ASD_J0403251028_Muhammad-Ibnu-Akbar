@@ -1,0 +1,11 @@
+BRG001,Smart TV,5
+BRG002,Air Purifier,20
+BRG003,Mesin Kopi,15
+BRG004,Microwave,7
+BRG005,Vacuum Cleaner,3
+BRG006,Power Bank,25
+BRG007,Proyektor,10
+BRG008,Kamera DSLR,6
+BRG009,Soundbar,8
+BRG010,Tablet Grafis,30
+BRG011,Hardisk Eksternal,10
