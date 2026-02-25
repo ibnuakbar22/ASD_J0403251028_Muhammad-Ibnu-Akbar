@@ -1,3 +1,9 @@
+# ================================================
+# Muhammad Ibnu Akbar
+# J0403251028
+# Implementasi Dasar : Node pada Linked List
+# ================================================
+
 class node: 
     def __init__(self, data):
         self.data = data 
